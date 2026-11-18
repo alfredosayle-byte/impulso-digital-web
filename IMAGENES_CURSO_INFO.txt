@@ -1,0 +1,6 @@
+IMPULSO DIGITAL — RECURSOS VISUALES
+
+Las seis fotografías de cursos se encuentran en assets/cursos/ y están integradas localmente en style.css.
+Correspondencia: AdSense, SEO, Inteligencia Artificial, Dominios, Redes Sociales y Ventas.
+Se conservaron estructura, colores, información y funcionalidades originales de la página.
+Las imágenes son ilustraciones fotorrealistas generadas para este sitio; no representan alumnos ni resultados reales.
